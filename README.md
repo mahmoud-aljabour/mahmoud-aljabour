@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**mahmoud-aljabour/mahmoud-aljabour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Backend Developer** specializing in PHP and Laravel, holding a B.Sc. in Web Technology & Information Security from Palestine Technical College. 
 
-Here are some ideas to get you started:
+I possess a year of proven experience designing complex backend systems, including multi-tenant SaaS architectures and secure payment flows. I thrive in high-traffic environments, backed by a track record of handling 5,000+ daily API requests with 98% uptime and optimizing response times by 86%. I combine technical precision with a security-focused approach to build safe, ultra-fast, and reliable digital products that drive impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ **Fun Fact:**
+💻 I view code through a security lens and an optimization mindset. To me, a flawless backend isn't just one that passes all tests, but one that stands resilient under pressure and keeps data locked down tight.
+
+## 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,postgres,git,github,linux,ubuntu,postman,nginx)](https://skillicons.dev)
+
+---
