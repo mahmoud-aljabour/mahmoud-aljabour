@@ -12,6 +12,6 @@ I see software like a living organism—databases are the memory, APIs are the n
 ---
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,postgres,git,github,linux,ubuntu,postman,awsazul,bootstrap,css,html,docker,discord,gmail,instagram,js,linkedin,mysql,netlify,phpstorm,stackoverflow,sublime,tailwind,twitter,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,postgres,git,github,linux,ubuntu,postman,aws,bootstrap,css,html,docker,discord,gmail,instagram,js,linkedin,mysql,netlify,phpstorm,stackoverflow,sublime,tailwind,twitter,vscode,)](https://skillicons.dev)
 
 ---
